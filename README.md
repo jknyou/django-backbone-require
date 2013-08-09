@@ -1,4 +1,4 @@
-django-backbone-require---_-
+django-backbone-require
 ============================
 
 django-backbone-require-underscore
